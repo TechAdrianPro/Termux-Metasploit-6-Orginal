@@ -12,3 +12,6 @@ cd Termux-Metasploit-6-Orginal
 chmod +x MetasploitTermuxInstall.sh
 
 bash MetasploitTermuxInstall.sh
+
+
+WARNING: The Metasploit Framework uses 1-2 GB of memory 
